@@ -1,4 +1,6 @@
 # STM32F407XX_Drivers
+(Viktoras Matusevicius)
+
 GPIO,SPI,I2C and USART Peripheral drivers for STM32F407XX microcontroller with ARM Cortex M4 processor
 
 This is a work in progress and done by following online courses (Finishing up on USART APIs)!!!!
